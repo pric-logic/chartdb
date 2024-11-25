@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>I contributed the gujarati translation typescript for this project</h1><h1 align="center">
   <a href="https://chartdb.io#gh-light-mode-only">
     <img src="https://github.com/chartdb/chartdb/blob/main/src/assets/logo-light.png" width="400" height="70" alt="ChartDB">
   </a>
